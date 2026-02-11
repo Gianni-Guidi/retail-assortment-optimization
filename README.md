@@ -5,7 +5,7 @@ Optimize product assortment by analyzing sales, volume, pricing, and distributio
 to identify growth opportunities and rationalization actions.
 
 ## Dataset
-Retail sales dataset including products, outlets, pricing bands, visibility, and estimated units sold.
+Retail sales dataset including products, outlets, pricing bands, visibility, and estimated units sold (8523 rows, 15 features)
 
 ## Analytical Approach
 - Portfolio KPIs & Pareto analysis
